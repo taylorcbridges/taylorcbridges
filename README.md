@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taylorcbridges
 - 👀 I’m interested in being a master React developer
-- 🌱 I’m currently learning Advanced React and Python
+- 🌱 I’m currently learning Advanced React
 - 💞️ I’m looking to collaborate on JavaScript and React projects
 - 📫 How to reach me taylorcbridges@gmail.com
 
